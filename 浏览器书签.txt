@@ -1,0 +1,179 @@
+http://www.cppblog.com/guojingjia2006/archive/2013/02/20/197955.html（Android root权限获取大揭秘(转)）
+http://www.infoq.com/cn/articles/android-accessibility-installing（使用Android Accessibility实现免Root自动批量安装功能）
+http://blog.csdn.net/vrix/article/details/48493569（编译android5.0.2源码到libwebviewchromium.so时停止很长时间发生错误）
+http://blog.csdn.net/cbk861110/article/details/43085871（MTK Android user版本如何打开root权限）
+http://square.github.io/okhttp/（OKHTTP）（https://github.com/square/okhttp）
+https://github.com/koush/ion（ion）
+http://android-developers.blogspot.com/2015/05/android-design-support-library.html(material design)
+http://json.cn/（json在线解析）广告较少
+http://www.eoeandroid.com/thread-206358-1-1.html（如何调试分析Android中发生的tombstone）
+http://janbarry0914.blogspot.com/2011/07/android-crash-tombstone.html()
+http://my.oschina.net/u/175078/blog/94243?fromerr=q3UJadcw(MediaPlayer与SurcaceView出现Media Server Died现象)
+http://blog.csdn.net/zhimibuhui188/article/details/8208432)(Android Camera HAL浅析)
+http://wiki.t-firefly.com/index.php/Firefly-RK3288/Camera（Firefly-RK3288/camera）
+http://blog.csdn.net/halleyzhang3/article/details/11473961(Android 用MediaCodec实现视频硬解码)
+http://blog.csdn.net/shawnkong/article/details/16337381(Android 新API 之 MediaCodec使用笔记 <一>)
+http://www.cnblogs.com/devinzhang/archive/2012/01/17/2325092.html(Android网络连接之HttpURLConnection和HttpClient)
+http://blog.csdn.net/ouyang_peng/article/details/47404709(我的Android进阶之旅------>HTTP Content-type 对照表)
+http://www.cnblogs.com/mengdd/p/3213378.html(Android 抽屉效果的导航菜单实现)
+http://www.eoeandroid.com/thread-48051-1-1.html?_dsign=07c4b13e(Android面试时的问题,实现半透明的popupwindow的源码★修订版★)
+http://blog.csdn.net/huangyabin001/article/details/42777703(Android开机时间分析)
+http://ticktick.blog.51cto.com/823160/1662911(Android内核开发：学会分析系统的启动log)
+http://blog.csdn.net/jkh753/article/details/12908971(android启动速度优化)
+http://blog.csdn.net/andylau6789/article/details/24654385(Android bootchart 工具使用)
+http://blog.csdn.net/andylau6789/article/details/24018653(Android 隐藏 SystemUI 全屏显示)
+http://blog.csdn.net/yangwen123/article/details/9464779(Android服务之PackageManagerService启动源码分析)
+http://stackoverflow.com/questions/13653692/device-descriptor-read-64-error-110(linux ubuntu加载USB设备报错)
+http://blog.csdn.net/luoboo525/article/details/7883998(android 代码设置、打开wifi热点及热点的连接)
+http://www.zhihu.com/question/19662094(你觉得好听的英文歌有哪些？)
+http://my.oschina.net/blackylin/blog/147371?fromerr=EPLek1nk(android 实现静默安装、卸载（图）)
+http://blog.csdn.net/libelosophy/article/details/30222275([Android] [SystemUI] Recent -- 最近任务的启动流程)
+http://blog.csdn.net/yangwen123/article/details/11680759(Android 开关机动画显示源码分析)
+http://blog.csdn.net/pediyasm/article/details/7987389(android 启动时自动设置default Launcher)
+http://blog.sina.com.cn/s/blog_4ad8d46c01019zq4.html(android 启动时自动设置default Launcher)
+http://www.lovelucy.info/win7-install-mac-os-lion.html(PC机Win7下安装Mac OS X 10.7 Lion教程(多图))
+http://bbs.zol.com.cn/diybbs/d34037_6.html(Win7下安装苹果MAC OS X Mountain Lion 双系统详细图文教程)
+
+http://blog.csdn.net/liuhaitao_share/article/details/41622679( Android 音频 OpenSL ES PCM数据播放)
+http://vec3.ca/getting-started-with-opensl-on-android/()
+http://www.csdn.net/article/2015-07-20/2825256(深入理解Android NDK日志符号化)
+http://www.cnweblog.com/fly2700/archive/2008/05/21/286352.html(在Linux环境下采用Pelco D协议的云台控制的实现源代码)
+http://appui.mobi/
+http://www.cnblogs.com/frydsh/p/3443064.html(解决：“MediaPlayer error (1, -2147483648)”问题)
+http://blog.csdn.net/jeanphorn/article/details/45580825(Linux 查看串口情况)
+http://linuxtv.org/downloads/v4l-dvb-apis/extended-controls.html#camera-controls(ptz control api reference)
+http://linuxtv.org/downloads/v4l-dvb-apis/vidioc-queryctrl.html#v4l2-queryctrl(v4l2 query ioctl items)
+http://stackoverflow.com/questions/8352599/what-does-media-error-server-died-mean(What does MEDIA_ERROR_SERVER_DIED mean?)
+http://permalink.gmane.org/gmane.linux.drivers.video-input-infrastructure/78844(patch for uvc)
+http://lxr.free-electrons.com/source/drivers/media/usb/uvc/uvc_ctrl.c
+http://linuxtv.org/downloads/v4l-dvb-apis/vidioc-g-ext-ctrls.html#v4l2-ext-controls
+http://linuxtv.org/downloads/v4l-dvb-apis/vidioc-g-ext-ctrls.html#ctrl-class
+http://linuxtv.org/downloads/v4l-dvb-apis/vidioc-g-ctrl.html
+http://www.linuxtv.org/downloads/legacy/video4linux/API/V4L2_API/spec-single/v4l2.html#v4l2-ext-controls
+http://blog.chinaunix.net/uid-25655582-id-3878763.html(Overview of the V4L2 driver framework (v4l2_subdev) )
+http://linuxtv.org/downloads/v4l-dvb-apis/vidioc-queryctrl.html#v4l2-querymenu()
+http://blog.csdn.net/luoshengyang/article/details/6559955/( 在Ubuntu上下载、编译和安装Android最新源代码)
+http://blog.csdn.net/luoshengyang/article/details/6564592(在Ubuntu上下载、编译和安装Android最新内核源代码（Linux Kernel）)
+http://jingyan.baidu.com/article/60ccbceb18624464cab197ea.html(win7+ubuntu 13.04双系统安装方法)
+http://jileniao.net/ubunt-add-swap-to-build-libwebviewchromium.html(ubuntu14.10上编译android5.0.2源码到libwebviewchromium.so时停止很长时间发生错误)
+http://www.lavrsen.dk/svn/motion/tags/3.2.9/track.c(ptz control demo)
+http://blog.csdn.net/orz415678659/article/details/9981879（uvc摄像头系列）
+http://blog.csdn.net/luoshengyang/article/details/6581828（浅谈Android系统开发中LOG的使用）
+http://cheng-min-i-taiwan.blogspot.com/2012/11/android-usb-hellousbuartrs-232.html
+https://groups.google.com/forum/#!topic/beagleboard/DCPqqDp5DS8
+http://handcontrol.googlecode.com/svn-history/r17/trunk/webcam.cpp
+https://source.android.com/source/initializing.html
+https://www.kernel.org/
+http://www.zhihu.com/question/22151505（按照android官方配置编译环境之后无法进入ubuntu，导致停留在开机阶段）
+https://github.com/TheImagingSource/tiscamera/issues/15
+http://www.linux-commands-examples.com/uvcdynctrl（linux下的摄像头控制工具）
+http://piaf.googlecode.com/svn-history/r127/trunk/main/acquisitions/video/src/V4L2Device.cpp
+http://www.lembed.com/%E5%9C%A8android%E5%B9%B3%E5%8F%B0%EF%BC%8C%E4%BD%BF%E7%94%A8tcpdump%E6%9E%84%E5%BB%BAusb%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7/(使用tcpdump构建usb抓包工具)
+https://github.com/llmike/devu-uvc
+http://www.eefocus.com/marianna/blog/13-06/294567_a5fc8.html(罗技摄像头C270与嵌入式LINUX)
+http://www.ideasonboard.org/uvc/(uvc support cameras)
+http://www.eoeandroid.com/thread-302412-1-1.html?_dsign=840aaa05(android4.4之前有效)
+https://github.com/ChainsDD/Superuser
+http://stackoverflow.com/questions/22546444/how-to-use-jni-to-call-a-main-function-that-takes-an-array-of-character-pointe
+http://stackoverflow.com/questions/23605169/calling-the-main-in-c-by-jni-in-android
+http://wiki.opencv.org.cn/index.php/Main%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0argc%EF%BC%8Cargv%E8%AF%B4%E6%98%8E（main函数参数说明）
+http://smilejay.com/2011/12/linux_loglevel/（Linux 日志级别(loglevel)详解）
+http://developer.t-firefly.com/forum.php?mod=viewthread&tid=185&highlight=logo（制作开机LOGO及开机动画）
+http://pradeep-ki-duniya.blogspot.com/2013/03/hiding-and-showing-system-barstatus-bar.html
+http://m.blog.csdn.net/blog/Nio96/38921377（系统去掉 Android 4.4.2 的StatusBar和NavigationBar）
+http://zwkufo.blog.163.com/blog/static/2588251201382293049118/（Android：制作Update.zip升级包  ）
+http://lhc180.blog.51cto.com/316940/758075(Android recovery 下使用 updater-script 自制升级包)
+http://blog.csdn.net/mu0206mu/article/details/7465603(Android系统Recovery工作原理之使用update.zip升级过程分析（九）---updater-script脚本语法简介以及执行流程)
+http://blog.csdn.net/zuiaikg703/article/details/12445525(android 预装第三方apk的方法)
+http://blog.csdn.net/fe421504975/article/details/8272663(android 预装第三方apk的方法)
+http://blog.csdn.net/new_abc/article/details/12966503(PackageManagerService启动及初始化流程)
+http://my.oschina.net/u/1176566/blog/190984?fromerr=GGOYnMZt(Android framework系统默认设置修改)
+http://www.csdn.net/article/2015-10-05/2825847(Android开发最佳实践)
+http://blog.csdn.net/happy_6678/article/details/7242594(Android recovery 下使用 updater-script 自制升级包)
+http://my.oschina.net/jerikc/blog/185917?fromerr=GtFgQL48(Camera driver&V4L2驱动架构介绍)
+http://www.oschina.net/question/195301_30828?fromerr=9gTLVcBz(Android数据库SQLite的使用示例)
+http://blog.csdn.net/harvic880925/article/details/49272285(PopUpWindow使用详解(一)——基本使用)
+http://blog.csdn.net/ceko_wu/article/details/8286182(android开机动画制作与播放原理简介)
+http://blog.csdn.net/yigelangmandeshiren/article/details/6414563(匹配中文字符的正则表达式： [/u4e00-/u9fa5])
+http://www.phperz.com/article/14/1028/30741.html(Swift UIAlertController 以及 Swift 中的闭包和枚举)
+http://huamm.blog.51cto.com/5646020/1550305(Android设置默认Launcher)
+http://www.cnblogs.com/meizixiong/p/3551891.html(android应用程序的安装方式与原理)
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0627/1625.html(可以下拉缩放HeaderView的ListView:PullToZoomInListView)
+http://blog.csdn.net/song19891121/article/details/50099857(（国内）完美下载Android源码Ubuntu版)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
